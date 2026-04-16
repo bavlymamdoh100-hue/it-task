@@ -47,7 +47,7 @@ a:hover{
 }
 .card{
     margin: 10px;
-    border: solid black;
+    border: solid black 3px;
     cursor: pointer;
     transition: 0.3s;
     width: 250px;
