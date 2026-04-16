@@ -113,3 +113,10 @@ input, textarea {
 .click:hover{
     background-color: gray;
 }
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: solid black;
+    border-radius: 10px;
+}
